@@ -1,0 +1,71 @@
+header {
+    background-color: #F1FDFF;
+    font-family: Montserrat;
+
+
+    .woman {
+        position: relative;
+        width: 1448px;
+        height: 877px;
+        left: 28x`0px;
+        top: -148px;
+    }
+}
+    .pass {
+        box-sizing: border-box;
+      
+        justify-content: center;
+        align-items: center;
+        padding: 21px 28px;
+        gap: 10px;
+        
+        width: 208px;
+        height: 59px;
+        
+        background: #7AE5FD;
+        border-radius: 87px;
+    
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 96.9%;
+        font-family: Montserrat;
+    
+    }
+    
+        .logo {
+            position: absolute;
+            width: 65px;
+            height: 65px;
+            left: 63px;
+            top: 100px;
+        }
+    
+        .title {
+            position: absolute;
+            width: 698px;
+            height: 264px;
+            left: 100px;
+            top: 200px;
+    
+            font-style: normal;
+            font-weight: 800;
+            font-size: 93px;
+            line-height: 94.9%;
+    
+            letter-spacing: -0.02em;
+            text-transform: uppercase;
+    
+            color: #9AD2DE; 
+        }
+    }
+    .topnav a {
+        position: relative;
+        width: 86px;
+        height: 17px;
+        float: right;
+        text-align: center;
+        font-size: 18px;
+        padding: 0px 28px;
+        top: 50px;
+        left: -300px;   
+    }
